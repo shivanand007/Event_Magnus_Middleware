@@ -1,0 +1,38 @@
+2023-05-10 14:04:29 INFO     Event Recevied from third party Api with ID : <class 'app.utils.basemodel.Task'>
+2023-05-10 14:05:53 INFO     Event Recevied from third party Api with ID : <class 'app.utils.basemodel.Task'>
+2023-05-10 14:22:00 INFO     Event Recevied from third party Api with ID : <class 'app.utils.basemodel.Task'>
+2023-05-10 14:22:45 INFO     Event Recevied from third party Api with ID : <class 'app.utils.basemodel.Task'>
+2023-05-10 14:22:59 INFO     Event Recevied from third party Api with ID : <class 'app.utils.basemodel.Task'>
+2023-05-10 14:23:20 INFO     Event Recevied from third party Api with ID : <class 'app.utils.basemodel.Task'>
+2023-05-10 14:29:59 INFO     Event Recevied from third party Api with ID : {'app_name': 'asd', 'app_id': 75, 'event_msg': 'asdasd', 'destination_server_Ip': 'asdasdasd', 'destination_server_endpoint': 'asdasdas', 'destination_server_url': 'asdasd'}
+2023-05-10 14:55:54 INFO     Event Recevied from third party Api with ID : {'app_name': 'asd', 'app_id': 7465565, 'event_msg': 'asd', 'destination_server_Ip': 'asd', 'destination_server_endpoint': 'asd', 'destination_server_url': 'asd'}
+2023-05-10 15:09:34 DEBUG    error occured : 'Task' object has no attribute 'get'
+2023-05-10 15:10:12 DEBUG    error occured : 'Task' object has no attribute 'get'
+2023-05-10 15:12:24 DEBUG    error occured : 'Task' object has no attribute 'get'
+2023-05-10 15:14:00 DEBUG    error occured : name 'app_id' is not defined
+2023-05-10 15:14:29 DEBUG    error occured : name 'app_id' is not defined
+2023-05-10 15:20:07 DEBUG    error occured : 'Task' object is not subscriptable
+2023-05-10 15:21:42 INFO     Data recevied from third party : {'app_name': 'asd', 'app_id': 7845, 'event_msg': 'asd', 'destination_server_Ip': 'dda', 'destination_server_endpoint': 'ewrsd', 'destination_server_url': 'afdasa'}
+2023-05-10 15:21:42 DEBUG    error occured : 'Task' object is not subscriptable
+2023-05-10 15:25:13 DEBUG    error occured : Object of type Task is not JSON serializable
+2023-05-10 15:27:47 DEBUG    error occured : name 'TaskEncoder' is not defined
+2023-05-10 15:28:47 DEBUG    error occured : name 'TaskEncoder' is not defined
+2023-05-10 15:29:07 DEBUG    error occured : 6 validation errors for Task
+app_name
+  field required (type=value_error.missing)
+app_id
+  field required (type=value_error.missing)
+event_msg
+  field required (type=value_error.missing)
+destination_server_Ip
+  field required (type=value_error.missing)
+destination_server_endpoint
+  field required (type=value_error.missing)
+destination_server_url
+  field required (type=value_error.missing)
+2023-05-10 15:31:14 DEBUG    error occured : dump() missing 1 required positional argument: 'fp'
+2023-05-10 15:32:32 DEBUG    error occured : dump() missing 1 required positional argument: 'fp'
+2023-05-10 15:33:03 DEBUG    error occured : Object of type Task is not JSON serializable
+2023-05-10 15:35:15 INFO     Event Recevied from third party Api with ID : app_name='string' app_id=0 event_msg='string' destination_server_Ip='string' destination_server_endpoint='string' destination_server_url='string'
+2023-05-10 15:35:17 INFO     Event Recevied from third party Api with ID : app_name='string' app_id=0 event_msg='string' destination_server_Ip='string' destination_server_endpoint='string' destination_server_url='string'
+2023-05-10 15:36:34 INFO     Event Recevied from third party Api with ID : 0s

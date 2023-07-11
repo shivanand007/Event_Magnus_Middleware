@@ -1,0 +1,95 @@
+2023-05-11 11:07:04 INFO     Event Recevied from third party Api with ID : 0
+2023-05-11 11:14:57 INFO     Event Recevied from third party Api with ID : 0
+2023-05-11 12:55:13 INFO     register invoked by App_Name : screen-pop
+2023-05-11 12:55:56 INFO     register invoked by Client with App Name : screen-pop || Ip : 172.25.356.3 || Os_username: shiva
+2023-05-11 12:55:56 DEBUG    App Id value for client screen-pop : 65567577fa
+2023-05-11 13:03:21 INFO     register invoked by Client with App Name : screen-pop || Ip : 172.245.54.312 || Os_username: shivansdnas
+2023-05-11 13:03:21 DEBUG    App Id value for client screen-pop : 1a79599f4d
+2023-05-11 13:04:37 INFO     register invoked by Client with App Name : screen-pop || Ip : 172.245.54.312 || Os_username: shivansdnas
+2023-05-11 13:04:37 DEBUG    App Id value for client screen-pop : 1a79599f4d
+2023-05-11 13:04:47 INFO     New Registeration Request by Client with App Name : screen-pop || Ip : 172.245.54.312 || Os_username: shivansdnas
+2023-05-11 13:04:47 DEBUG    App Id value for client screen-pop : 1a79599f4d
+2023-05-11 13:06:23 INFO     New Registeration Request by Client with App Name : screen-pop || Ip : 172.245.54.312 || Os_username: shivansdnas
+2023-05-11 13:06:23 DEBUG    App Id value for client screen-pop : 1a79599f4d
+2023-05-11 13:06:23 DEBUG    Hashmap File contains : {'screen-pop': '1a79599f4d'}
+2023-05-11 13:07:01 INFO     New Registeration Request by Client with App Name : crm || Ip : 172.245.54.452 || Os_username: asasd
+2023-05-11 13:07:01 DEBUG    App Id value for client crm : a95f9a2f81
+2023-05-11 13:07:01 DEBUG    Hashmap File contains : {'screen-pop': '1a79599f4d', 'crm': 'a95f9a2f81'}
+2023-05-11 13:08:53 INFO     New Registeration Request by Client with App Name : Sms Application || Ip : 172.245.78.482 || Os_username: shivannd@123
+2023-05-11 13:08:53 DEBUG    App Id value for client Sms Application : f67b94ea05
+2023-05-11 13:08:53 DEBUG    Hashmap File contains : {'screen-pop': '1a79599f4d', 'crm': 'a95f9a2f81', 'Sms Application': 'f67b94ea05'}
+2023-05-11 13:08:58 INFO     New Registeration Request by Client with App Name : Sms Application || Ip : 172.245.78.482 || Os_username: shivannd@123
+2023-05-11 13:08:58 DEBUG    App Id value for client Sms Application : f67b94ea05
+2023-05-11 13:08:58 DEBUG    Hashmap File contains : {'screen-pop': '1a79599f4d', 'crm': 'a95f9a2f81', 'Sms Application': 'f67b94ea05'}
+2023-05-11 13:09:02 INFO     New Registeration Request by Client with App Name : Sms Application || Ip : 172.245.78.482 || Os_username: shivannd@123
+2023-05-11 13:09:02 DEBUG    App Id value for client Sms Application : f67b94ea05
+2023-05-11 13:09:02 DEBUG    Hashmap File contains : {'screen-pop': '1a79599f4d', 'crm': 'a95f9a2f81', 'Sms Application': 'f67b94ea05'}
+2023-05-11 13:49:08 INFO     New Registeration Request by Client with App Name : demo-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:49:08 DEBUG    App Id value for client demo-widget : 6b81779128
+2023-05-11 13:49:08 DEBUG    Hashmap File contains : {'demo-widget': '6b81779128'}
+2023-05-11 13:50:00 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:50:00 DEBUG    App Id value for client test-widget : 6b81779128
+2023-05-11 13:50:00 DEBUG    Hashmap File contains : {'demo-widget': '6b81779128', 'test-widget': '6b81779128'}
+2023-05-11 13:50:12 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:50:12 DEBUG    App Id value for client test-widget : 6b817791280a26e2d114
+2023-05-11 13:50:12 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d114'}
+2023-05-11 13:53:30 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:53:30 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 13:53:30 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 13:54:20 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:54:20 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 13:54:20 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 13:55:19 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:55:19 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 13:55:19 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 13:55:34 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:55:34 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 13:55:34 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 13:57:57 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 13:57:57 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 13:57:57 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 14:06:23 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 14:06:23 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 14:06:23 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 14:22:42 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 14:22:42 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 14:22:42 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 14:25:07 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 14:25:07 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 14:25:07 DEBUG    Hashmap File contains : {}
+2023-05-11 14:34:43 INFO     New Registeration Request by Client with App Name : test-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 14:34:43 DEBUG    App Id value for client test-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 14:34:43 DEBUG    Hashmap File contains : {'test-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 14:35:10 INFO     New Registeration Request by Client with App Name : test21w-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 14:35:10 DEBUG    App Id value for client test21w-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 14:35:10 DEBUG    Hashmap File contains : {'test21w-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 14:35:41 INFO     New Registeration Request by Client with App Name : response-widget || Ip : 172.243.78.482 || Os_username: shivannd@123
+2023-05-11 14:35:41 DEBUG    App Id value for client response-widget : 6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5
+2023-05-11 14:35:41 DEBUG    Hashmap File contains : {'response-widget': '6b817791280a26e2d1142bc58767d1e4e6fb30c234258ebd5488dc190e62c8e5'}
+2023-05-11 14:37:37 INFO     New Registeration Request by Client with App Name : smst || Ip : 172.203.78.482 || Os_username: shivannd@123
+2023-05-11 14:37:37 DEBUG    App Id value for client smst : 516105eac1d0580c5d1cf817d97d528c9ab39f34c0b0515df6bb1926977503be
+2023-05-11 14:37:37 DEBUG    Hashmap File contains : {'smst': '516105eac1d0580c5d1cf817d97d528c9ab39f34c0b0515df6bb1926977503be'}
+2023-05-11 14:47:39 INFO     New Registeration Request by Client with App Name : smst || Ip : 172.203.78.482 || Os_username: shivannd@123
+2023-05-11 14:47:39 DEBUG    App Id value for client smst : 516105eac1d0580c5d1cf817d97d528c9ab39f34c0b0515df6bb1926977503be
+2023-05-11 14:47:39 DEBUG    Hashmap File contains : {'smst': '516105eac1d0580c5d1cf817d97d528c9ab39f34c0b0515df6bb1926977503be'}
+2023-05-11 14:48:07 INFO     New Registeration Request by Client with App Name : screenpop || Ip : 172.20.7.482 || Os_username: shivannd@123
+2023-05-11 14:48:07 DEBUG    App Id value for client screenpop : 1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684
+2023-05-11 14:48:07 DEBUG    Hashmap File contains : {'screenpop': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684'}
+2023-05-11 14:52:23 INFO     New Registeration Request by Client with App Name : screenpop || Ip : 172.20.7.482 || Os_username: shivannd@123
+2023-05-11 14:52:23 DEBUG    App Id value for client screenpop : 1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684
+2023-05-11 14:52:23 DEBUG    Hashmap File contains : {'screenpop': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684'}
+2023-05-11 14:52:36 INFO     New Registeration Request by Client with App Name : sms-application || Ip : 172.20.7.482 || Os_username: shivannd@123
+2023-05-11 14:52:36 DEBUG    App Id value for client sms-application : 1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684
+2023-05-11 14:52:36 DEBUG    Hashmap File contains : {'screenpop': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'sms-application': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684'}
+2023-05-11 14:53:38 INFO     New Registeration Request by Client with App Name : screenpop-widget || Ip : 172.20.7.481 || Os_username: saasd@123
+2023-05-11 14:53:38 DEBUG    App Id value for client screenpop-widget : 87b17ea8539a628c798c3954e54caa6f0958886dd698a6b65da6125074425742
+2023-05-11 14:53:38 DEBUG    Hashmap File contains : {'screenpop': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'sms-application': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'screenpop-widget': '87b17ea8539a628c798c3954e54caa6f0958886dd698a6b65da6125074425742'}
+2023-05-11 15:16:20 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: 1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684
+2023-05-11 15:16:20 INFO     Client application verified
+2023-05-11 15:34:32 INFO     Event Recevied from third party Api with App_Name :string || App_Id: string
+2023-05-11 15:34:32 CRITICAL user is not verified
+2023-05-11 15:37:10 INFO     New Registeration Request by Client with App Name : widget-screenpop || Ip : 172.168.25.35 || Os_username: anoop
+2023-05-11 15:37:10 DEBUG    App Id value for client widget-screenpop : c66834ea45a3fc599ed46b55dc530fb00427009cf0cf8d9ff0d52eadf53ab4de
+2023-05-11 15:37:10 DEBUG    Hashmap File contains : {'screenpop': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'sms-application': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'screenpop-widget': '87b17ea8539a628c798c3954e54caa6f0958886dd698a6b65da6125074425742', 'widget-screenpop': 'c66834ea45a3fc599ed46b55dc530fb00427009cf0cf8d9ff0d52eadf53ab4de'}
+2023-05-11 15:40:51 INFO     Event Recevied from third party Api with App_Name :widget-screenpop || App_Id: c66834ea45a3fc599ed46b55dc530fb00427009cf0cf8d9ff0d52eadf53ab4de
+2023-05-11 15:40:51 INFO     Client application verified, User Can Access the API's

@@ -1,0 +1,460 @@
+[32m2023-05-17 10:51:41 INFO     Event Recevied from third party Api with App_Name :string || App_Id: string[0m
+[34m2023-05-17 10:51:41 DEBUG    error occured : read_data() missing 1 required positional argument: 'filepath'[0m
+[32m2023-05-17 11:39:21 INFO     Event Recevied from third party Api with App_Name :string || App_Id: string[0m
+[31m2023-05-17 11:39:21 ERROR    user is not verified[0m
+[32m2023-05-17 11:41:58 INFO     New Registeration Request by Client with App Name : screenpop-wrap-up || Ip : 172.123.123.1 || Os_username: string1[0m
+[34m2023-05-17 11:41:58 DEBUG    App Id value for client screenpop-wrap-up : 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[34m2023-05-17 11:41:58 DEBUG    Hashmap File contains : {'widget_screenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'widgetscreenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'screenpop': 'f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457', 'server': '551824574900392de516606d3633019234267d738afcf3c7965f3308efc567d5', 'ahdfg': '2d4e67d3cdc6b57370e21347a47b752e3d21ea43880430c443a5c60af9727e6f', 'screenpop-wrap-up': '2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b'}[0m
+[32m2023-05-17 11:43:41 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 11:43:41 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 11:43:41 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 11:43:41 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=75ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 75ms, Maximum = 75ms, Average = 75ms\r\n' [0m
+[33m2023-05-17 11:43:41 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=75ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 75ms, Average = 75ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 11:43:41 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 11:43:41 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 11:43:41 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 11:43:41 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 11:43:41 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 11:43:41 INFO      Query String Objects : event=agent+loggedIn[0m
+[32m2023-05-17 11:43:41 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=agent+loggedIn [0m
+[32m2023-05-17 11:43:42 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 11:43:42 INFO     Callback Response content: b'You requested event: eventevent=agent+loggedIn'[0m
+[32m2023-05-17 11:47:22 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 11:47:22 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 11:47:22 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 11:47:22 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=2ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 2ms, Maximum = 2ms, Average = 2ms\r\n' [0m
+[33m2023-05-17 11:47:22 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=2ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 11:47:22 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 11:47:22 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 11:47:22 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 11:47:22 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 11:47:22 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 11:47:22 INFO      Query String Objects : event=agent+loggedIn[0m
+[32m2023-05-17 11:47:22 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=agent+loggedIn [0m
+[32m2023-05-17 11:47:22 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 11:47:22 INFO     Callback Response content: b'You requested event: eventevent=agent+loggedIn'[0m
+[32m2023-05-17 11:52:34 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 11:52:34 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 11:52:34 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 11:52:34 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=6ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 6ms, Maximum = 6ms, Average = 6ms\r\n' [0m
+[33m2023-05-17 11:52:34 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=6ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 11:52:34 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 11:52:34 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 11:52:34 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 11:52:34 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 11:52:34 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 11:52:34 INFO      Query String Objects : event=hello+server[0m
+[32m2023-05-17 11:52:34 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello+server [0m
+[32m2023-05-17 11:52:34 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 11:52:34 INFO     Callback Response content: b'You requested event: eventevent=hello+server'[0m
+[32m2023-05-17 11:53:15 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 11:53:15 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 11:53:15 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 11:53:15 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=7ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 7ms, Maximum = 7ms, Average = 7ms\r\n' [0m
+[33m2023-05-17 11:53:15 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=7ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 7ms, Average = 7ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 11:53:15 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 11:53:15 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 11:53:15 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 11:53:15 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 11:53:15 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 11:53:15 INFO      Query String Objects : event=how+are+you+%21[0m
+[32m2023-05-17 11:53:15 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=how+are+you+%21 [0m
+[32m2023-05-17 11:53:15 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 11:53:15 INFO     Callback Response content: b'You requested event: eventevent=how+are+you+!'[0m
+[32m2023-05-17 11:55:23 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 11:55:23 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 11:55:23 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 11:55:23 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=5ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 5ms, Maximum = 5ms, Average = 5ms\r\n' [0m
+[33m2023-05-17 11:55:23 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=5ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 11:55:23 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 11:55:23 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 11:55:23 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 11:55:23 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 11:55:23 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 11:55:23 INFO      Query String Objects : event=agent+login%21%21%21[0m
+[32m2023-05-17 11:55:23 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=agent+login%21%21%21 [0m
+[32m2023-05-17 11:55:23 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 11:55:23 INFO     Callback Response content: b'You requested event: eventevent=agent+login!!!'[0m
+[32m2023-05-17 12:07:13 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 12:07:13 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 12:07:13 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 12:07:14 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=5ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 5ms, Maximum = 5ms, Average = 5ms\r\n' [0m
+[33m2023-05-17 12:07:14 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=5ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 12:07:14 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 12:07:14 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 12:07:14 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 12:07:14 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 12:07:14 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 12:07:14 INFO      Query String Objects : event=hello-server%21%21[0m
+[32m2023-05-17 12:07:14 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello-server%21%21 [0m
+[32m2023-05-17 12:07:52 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 12:07:52 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 12:07:52 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 12:07:52 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=6ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 6ms, Maximum = 6ms, Average = 6ms\r\n' [0m
+[33m2023-05-17 12:07:52 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=6ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 12:07:52 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 12:07:52 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 12:07:52 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 12:07:52 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 12:07:52 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 12:07:52 INFO      Query String Objects : event=hello-server%21%21[0m
+[32m2023-05-17 12:07:52 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello-server%21%21 [0m
+[34m2023-05-17 12:09:02 DEBUG    error occured : ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))[0m
+[34m2023-05-17 12:09:02 DEBUG    error occured : ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))[0m
+[32m2023-05-17 12:09:12 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 12:09:12 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 12:09:12 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 12:09:12 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=4ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 4ms, Maximum = 4ms, Average = 4ms\r\n' [0m
+[33m2023-05-17 12:09:12 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=4ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 12:09:12 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 12:09:12 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 12:09:12 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 12:09:12 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 12:09:12 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 12:09:12 INFO      Query String Objects : event=hello-server%21%21[0m
+[32m2023-05-17 12:09:12 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello-server%21%21 [0m
+[34m2023-05-17 12:09:14 DEBUG    error occured : HTTPConnectionPool(host='172.18.80.112', port=5174): Max retries exceeded with url: /weatherforecast/eventevent=hello-server%21%21 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF76353FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))[0m
+[32m2023-05-17 12:10:40 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 12:10:40 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 12:10:40 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 12:10:40 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=30ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 30ms, Maximum = 30ms, Average = 30ms\r\n' [0m
+[33m2023-05-17 12:10:40 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=30ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 30ms, Average = 30ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 12:10:40 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 12:10:40 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 12:10:40 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 12:10:40 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 12:10:40 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 12:10:40 INFO      Query String Objects : event=hello-server%21%21[0m
+[32m2023-05-17 12:10:40 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello-server%21%21 [0m
+[32m2023-05-17 12:10:40 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 12:10:40 INFO     Callback Response content: b'You requested event: eventevent=hello-server!!'[0m
+[32m2023-05-17 12:28:25 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 12:28:25 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 12:28:25 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 12:28:26 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=6ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 6ms, Maximum = 6ms, Average = 6ms\r\n' [0m
+[33m2023-05-17 12:28:26 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=6ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 12:28:26 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 12:28:26 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 12:28:26 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 12:28:26 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 12:28:26 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 12:28:26 INFO      Query String Objects : event=hello-server%21%21[0m
+[32m2023-05-17 12:28:26 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello-server%21%21 [0m
+[32m2023-05-17 12:33:31 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 12:33:31 INFO     Callback Response content: b'You requested event: eventevent=hello-server!!'[0m
+[32m2023-05-17 12:33:45 INFO     Event Recevied from third party Api with App_Name :screenpop-wrap-up || App_Id: 2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b[0m
+[32m2023-05-17 12:33:45 INFO     Client app Id verified,2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b [0m
+[32m2023-05-17 12:33:45 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-17 12:33:45 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time=6ms TTL=127\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 6ms, Maximum = 6ms, Average = 6ms\r\n' [0m
+[33m2023-05-17 12:33:45 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time=6ms TTL=127
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-17 12:33:45 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-17 12:33:45 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-17 12:33:45 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-17 12:33:45 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-17 12:33:45 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event[0m
+[32m2023-05-17 12:33:45 INFO      Query String Objects : event=hello-server%21%21[0m
+[32m2023-05-17 12:33:45 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello-server%21%21 [0m
+[32m2023-05-17 12:33:45 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-17 12:33:45 INFO     Callback Response content: b'You requested event: eventevent=hello-server!!'[0m
+2023-05-17 16:51:42 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 16:51:42 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 16:51:42 ERROR    ____Ip address is not reachable____
+2023-05-17 16:52:51 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 16:52:51 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 16:52:51 ERROR    ____Ip address is not reachable____
+2023-05-17 16:53:11 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 16:53:11 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 16:53:11 ERROR    ____Ip address is not reachable____
+2023-05-17 16:57:15 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 16:57:15 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 16:57:15 ERROR    ____Ip address is not reachable____
+2023-05-17 17:01:31 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:01:31 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:01:31 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:01:31 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:01:31 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:01:31 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:01:31 INFO      Query String Objects : event=hello+server%40%40
+2023-05-17 17:01:31 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello+server%40%40
+2023-05-17 17:01:31 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:01:31 INFO     Callback Response content: b'You requested event: eventevent=hello+server@@'
+2023-05-17 17:03:50 INFO     ---------------New Request Trigger-------------
+2023-05-17 17:03:50 INFO     ---------------New Request Trigger-------------
+2023-05-17 17:03:53 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:03:53 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:03:53 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:03:53 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:03:53 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:03:53 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:03:53 INFO      Query String Objects : event=hello+server%40%40
+2023-05-17 17:03:53 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=hello+server%40%40
+2023-05-17 17:03:53 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:03:53 INFO     Callback Response content: b'You requested event: eventevent=hello+server@@'
+2023-05-17 17:04:03 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:03 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:03 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:03 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:03 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:03 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:03 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:03 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:03 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:03 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:05 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:05 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:05 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:05 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:05 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:05 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:05 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:05 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:05 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:05 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:05 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:05 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:05 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:05 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:05 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:05 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:05 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:05 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:05 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:05 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:05 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:05 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:05 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:05 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:05 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:05 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:05 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:05 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:05 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:05 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:10 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:10 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:10 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:10 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:10 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:10 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:10 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:10 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:10 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:10 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:10 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:10 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:10 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:10 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:10 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:10 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:10 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:10 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:10 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:10 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:10 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:10 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:10 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:10 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:10 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:10 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:10 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:10 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:10 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:10 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:10 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:10 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:10 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:10 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:10 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:10 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:10 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:10 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:10 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:10 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:11 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:11 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:11 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:11 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:11 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:11 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:11 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:11 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:11 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:11 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:11 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:11 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:11 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:11 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:11 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:11 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:11 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:11 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:11 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:11 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:11 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:11 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:11 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:11 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:11 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:11 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:11 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:11 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:04:11 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:04:11 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:04:11 INFO     ___Ip is reachable______ handshake success
+2023-05-17 17:04:11 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:04:11 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:04:11 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:04:11 INFO      Query String Objects : event=headakdfbadbkj
+2023-05-17 17:04:11 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=headakdfbadbkj
+2023-05-17 17:04:11 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:04:11 INFO     Callback Response content: b'You requested event: eventevent=headakdfbadbkj'
+2023-05-17 17:09:09 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:09:09 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:09:09 INFO     handshake success Ip is reachable
+2023-05-17 17:09:09 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:09:09 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:09:09 INFO      Destination URL Requested By User : http://172.18.80.112/:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:09:09 INFO      Query String Objects : event=im+good
+2023-05-17 17:09:09 INFO      Final url for destination server : - http://172.18.80.112/:5174/weatherforecast/eventevent=im+good
+2023-05-17 17:09:11 INFO     Error Occured while Reaching :- HTTPConnectionPool(host='172.18.80.112', port=80): Max retries exceeded with url: /:5174/weatherforecast/eventevent=im+good (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD3A5B450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2023-05-17 17:10:09 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:10:09 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:10:10 INFO     handshake success Ip is reachable
+2023-05-17 17:10:10 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:10:10 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:10:10 INFO      Destination URL Requested By User : http://172.18.80.112/:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:10:10 INFO      Query String Objects : event=im+good
+2023-05-17 17:10:10 INFO      Final url for destination server : - http://172.18.80.112/:5174/weatherforecast/eventevent=im+good
+2023-05-17 17:10:12 INFO     Error Occured while Reaching :- HTTPConnectionPool(host='172.18.80.112', port=80): Max retries exceeded with url: /:5174/weatherforecast/eventevent=im+good (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD3A88CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2023-05-17 17:10:15 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:10:15 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:10:15 INFO     handshake success Ip is reachable
+2023-05-17 17:10:15 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:10:15 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:10:15 INFO      Destination URL Requested By User : http://172.18.80.112/:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:10:15 INFO      Query String Objects : event=im+good
+2023-05-17 17:10:15 INFO      Final url for destination server : - http://172.18.80.112/:5174/weatherforecast/eventevent=im+good
+2023-05-17 17:10:17 INFO     Error Occured while Reaching :- HTTPConnectionPool(host='172.18.80.112', port=80): Max retries exceeded with url: /:5174/weatherforecast/eventevent=im+good (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD3A8AA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2023-05-17 17:11:17 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:11:17 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:11:17 INFO     handshake success Ip is reachable
+2023-05-17 17:11:17 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:11:17 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:11:17 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:11:17 INFO      Query String Objects : event=im+good
+2023-05-17 17:11:17 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=im+good
+2023-05-17 17:11:17 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:11:17 INFO     Callback Response content: b'You requested event: eventevent=im+good'
+2023-05-17 17:37:54 INFO     New Registeration Request by Client with App Name : shivaware || Ip : 172.123.18.0 || Os_username: shiva@123
+2023-05-17 17:37:54 DEBUG    App Id value for client shivaware : 229c2f4504a5451455d33822021a1974fcb1590c56f3eb8387dec9d49aab575f
+2023-05-17 17:37:54 DEBUG    Hashmap File contains : {'widget_screenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'widgetscreenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'screenpop': 'f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457', 'server': '551824574900392de516606d3633019234267d738afcf3c7965f3308efc567d5', 'ahdfg': '2d4e67d3cdc6b57370e21347a47b752e3d21ea43880430c443a5c60af9727e6f', 'screenpop-wrap-up': '2d23c7b50f2c5527e6bcfa5a8087a1872233486f0c391c2c4769da096ff8897b', 'shivaware': '229c2f4504a5451455d33822021a1974fcb1590c56f3eb8387dec9d49aab575f'}
+2023-05-17 17:52:42 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457
+2023-05-17 17:52:42 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 
+2023-05-17 17:52:43 INFO     handshake success Ip is reachable
+2023-05-17 17:52:43 INFO     Destination server ip : 172.18.80.112 
+2023-05-17 17:52:43 INFO     <----------- callback funcation Executed ----------> 
+2023-05-17 17:52:43 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/event with timeout 10 sec
+2023-05-17 17:52:43 INFO      Query String Objects : event=im+good
+2023-05-17 17:52:43 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/eventevent=im+good
+2023-05-17 17:52:44 INFO     ___________Callback Request successful! ________ 
+2023-05-17 17:52:44 INFO     Callback Response content: b'You requested event: eventevent=im+good'

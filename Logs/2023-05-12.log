@@ -1,0 +1,583 @@
+2023-05-12 11:25:41 INFO     New Registeration Request by Client with App Name : widget-screen || Ip : 172.254.256.44 || Os_username: shiva@123
+2023-05-12 11:25:41 DEBUG    App Id value for client widget-screen : 548263582a59480b119524471fdca904f78a5fce6b99b26b36e945bd3fc6d416
+2023-05-12 11:25:41 DEBUG    Hashmap File contains : {'screenpop': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'sms-application': '1d3895e8b4ed2e1d7097c426f99cec01d14857e690cddc8a7f1c34cca83ae684', 'screenpop-widget': '87b17ea8539a628c798c3954e54caa6f0958886dd698a6b65da6125074425742', 'widget-screenpop': 'c66834ea45a3fc599ed46b55dc530fb00427009cf0cf8d9ff0d52eadf53ab4de', 'widget-screen': '548263582a59480b119524471fdca904f78a5fce6b99b26b36e945bd3fc6d416'}
+2023-05-12 11:26:47 INFO     Event Recevied from third party Api with App_Name :widget-screen || App_Id: 548263582a59480b119524471fdca904f78a5fce6b99b26b36e945bd3fc6d416
+2023-05-12 11:26:47 INFO     Client application verified, User Can Access the API's
+[32m2023-05-12 12:17:08 INFO     New Registeration Request by Client with App Name : widget_screenpop || Ip : 172.457.254.65 || Os_username: shivanand[0m
+[31m[47m2023-05-12 12:17:08 CRITICAL There was error in app_id Creation : not enough values to unpack (expected 2, got 1)[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\register.py", line 50, in get_app_id
+    logger.critical(f"There was error in app_id Creation : {e}", stack_info=True)
+[32m2023-05-12 12:18:24 INFO     New Registeration Request by Client with App Name : widget_screenpop || Ip : 172.45.25.65 || Os_username: shivanand[0m
+[31m[47m2023-05-12 12:18:24 CRITICAL There was error in app_id Creation : not enough values to unpack (expected 2, got 1)[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\register.py", line 50, in get_app_id
+    logger.critical(f"There was error in app_id Creation : {e}", stack_info=True)
+[32m2023-05-12 12:18:33 INFO     New Registeration Request by Client with App Name : widgetscreenpop || Ip : 172.45.25.65 || Os_username: shivanand[0m
+[31m[47m2023-05-12 12:18:33 CRITICAL There was error in app_id Creation : not enough values to unpack (expected 2, got 1)[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\register.py", line 50, in get_app_id
+    logger.critical(f"There was error in app_id Creation : {e}", stack_info=True)
+[32m2023-05-12 12:22:06 INFO     New Registeration Request by Client with App Name : widgetscreenpop || Ip : 172.45.25.65 || Os_username: shivanand[0m
+[31m[47m2023-05-12 12:22:06 CRITICAL There was error in app_id Creation : not enough values to unpack (expected 2, got 1)[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\register.py", line 50, in get_app_id
+    logger.critical(f"There was error in app_id Creation : {e}", stack_info=True)
+[32m2023-05-12 12:26:28 INFO     New Registeration Request by Client with App Name : screenpop || Ip : 172.54.248.54 || Os_username: sfewa[0m
+[32m2023-05-12 12:26:28 INFO      input string : sfewa172.54.248.54[0m
+[32m2023-05-12 12:26:28 INFO      hashed string : f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[31m[47m2023-05-12 12:26:28 CRITICAL There was error in app_id Creation : not enough values to unpack (expected 2, got 1)[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\register.py", line 54, in get_app_id
+    logger.critical(f"There was error in app_id Creation : {e}", stack_info=True)
+[32m2023-05-12 12:29:49 INFO     New Registeration Request by Client with App Name : screenpop || Ip : 172.54.248.54 || Os_username: sfewa[0m
+[36m2023-05-12 12:29:49 DEBUG    App Id value for client screenpop : f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[36m2023-05-12 12:29:49 DEBUG    Hashmap File contains : {'widget_screenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'widgetscreenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'screenpop': 'f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457'}[0m
+[32m2023-05-12 12:32:27 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:32:27 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 12:36:17 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:36:17 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 12:39:09 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:39:09 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 12:39:09 INFO     checking if user entered ip_address is valid 172.18.74.75[0m
+[34m2023-05-12 12:39:09 DEBUG    success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 12:39:42 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:39:42 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 12:39:42 INFO     checking if user entered ip_address is valid 172.18.74.76[0m
+[34m2023-05-12 12:39:42 DEBUG    success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 12:39:58 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:39:58 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 12:39:58 INFO     checking if user entered ip_address is valid 172.18.74.70[0m
+[34m2023-05-12 12:39:58 DEBUG    success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 12:40:36 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:40:36 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 12:40:36 INFO     checking if user entered ip_address is valid 172.18.74[0m
+[34m2023-05-12 12:40:36 DEBUG    success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 12:57:14 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:57:14 INFO     Client application verified, User Can Access the API's[0m
+[34m2023-05-12 12:57:14 DEBUG    error occured : name 'is_valid_ip' is not defined[0m
+[32m2023-05-12 12:58:29 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:58:29 INFO     Client application verified, User Can Access the API's[0m
+[34m2023-05-12 12:58:29 DEBUG    error occured : name 'is_valid_ip' is not defined[0m
+[32m2023-05-12 12:59:17 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 12:59:17 INFO     Client application verified, User Can Access the API's[0m
+[32m2023-05-12 13:00:24 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:00:24 INFO     Client application verified, User Can Access the API's[0m
+[31m[47m2023-05-12 13:00:24 CRITICAL success, Ip address is not reachable from the middleware : name 'address' is not defined [0m
+[32m2023-05-12 13:05:01 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:05:01 INFO     Client application verified, User Can Access the API's[0m
+[34m2023-05-12 13:05:01 DEBUG    error occured : name 'address' is not defined[0m
+[32m2023-05-12 13:05:58 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:05:58 INFO     Client application verified, User Can Access the API's[0m
+[34m2023-05-12 13:05:58 DEBUG    error occured : name 'address' is not defined[0m
+[32m2023-05-12 13:09:05 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:09:05 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:09:05 INFO     checking if user entered ip_address is Reachable 172.18.74.75, Timeout is 2-sec [0m
+[31m[47m2023-05-12 13:09:05 CRITICAL success, Ip address is not reachable from the middleware : b'Access denied. Option -c requires administrative privileges.\r\n' [0m
+[32m2023-05-12 13:13:55 INFO     Event Recevied from third party Api with App_Name :widgetscreenpop || App_Id: 857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1[0m
+[32m2023-05-12 13:13:55 INFO     Client app Id verified,857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1 [0m
+[32m2023-05-12 13:13:55 INFO     checking if user entered ip_address is Reachable 172.18.74.75, Timeout is 2-sec [0m
+[31m[47m2023-05-12 13:13:56 CRITICAL success, Ip address is not reachable from the middleware : b'\r\nPinging 172.18.74.75 with 32 bytes of data:\r\nRequest timed out.\r\n\r\nPing statistics for 172.18.74.75:\r\n    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),\r\n' [0m
+[32m2023-05-12 13:22:12 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:22:12 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:22:12 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:22:12 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[34m2023-05-12 13:22:12 DEBUG    error occured : local variable 'e' referenced before assignment[0m
+[32m2023-05-12 13:23:05 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:23:05 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:23:05 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:23:05 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[34m2023-05-12 13:23:05 DEBUG    error occured : name 'e' is not defined[0m
+[32m2023-05-12 13:23:43 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:23:43 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:23:43 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:23:43 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[31m[47m2023-05-12 13:23:43 CRITICAL success, Ip address is not reachable from the middleware [0m
+[32m2023-05-12 13:27:11 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:27:11 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:27:11 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:27:11 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[31m[47m2023-05-12 13:27:11 CRITICAL Failure, Ip address is not reachable from the middleware [0m
+[32m2023-05-12 13:33:47 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:33:47 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:33:47 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:33:47 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[32m2023-05-12 13:33:47 INFO     output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[31m[47m2023-05-12 13:33:47 CRITICAL Failure, Ip address is not reachable from the middleware [0m
+[32m2023-05-12 13:35:57 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:35:57 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:35:57 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:35:57 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[32m2023-05-12 13:35:57 INFO     output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[32m2023-05-12 13:35:57 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 13:35:57 INFO     Destination server ip : ,172.18.80.81 [0m
+[32m2023-05-12 13:49:22 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:49:22 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:49:22 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:49:22 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 13:49:22 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 13:49:22 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 13:49:22 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 13:49:22 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 13:53:40 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 13:53:40 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 13:53:40 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 13:53:40 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 13:53:40 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 13:53:40 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 13:53:40 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 13:53:40 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 14:33:48 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 14:33:48 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 14:33:48 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 14:33:48 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 14:33:48 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 14:33:48 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 14:33:48 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 14:33:48 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 14:33:48 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 14:33:48 INFO      Final url for destination server : - https://dummy.restapiexample.com/api/v1/employees [0m
+[32m2023-05-12 15:02:15 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 15:02:15 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 15:02:15 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 15:02:15 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 15:02:15 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 15:02:15 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 15:02:15 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 15:02:15 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 15:02:15 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 15:02:15 INFO      Final url for destination server : - https://dummy.restapiexample.com/api/v1/employees [0m
+[34m2023-05-12 15:02:16 DEBUG    error occured : 'Logger' object is not callable[0m
+[32m2023-05-12 15:03:58 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 15:03:58 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 15:03:58 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 15:03:58 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 15:03:58 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 15:03:58 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 15:03:58 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 15:03:58 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 15:03:58 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 15:03:58 INFO      Final url for destination server : - https://dummy.restapiexample.com/api/v1/employees [0m
+[32m2023-05-12 15:03:59 INFO     Request failed with status code 406[0m
+[32m2023-05-12 15:56:10 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 15:56:10 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 15:56:10 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[33m2023-05-12 15:56:11 WARNING  Failure, Ip address is not reachable from the middleware :[0m
+[32m2023-05-12 15:56:35 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 15:56:35 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 15:56:35 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[33m2023-05-12 15:56:35 WARNING  Failure, Ip address is not reachable from the middleware :[0m
+[32m2023-05-12 15:58:12 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 15:58:12 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 15:58:12 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[33m2023-05-12 15:58:13 WARNING  Failure, Ip address is not reachable from the middleware :[0m
+[32m2023-05-12 15:59:57 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 15:59:57 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 15:59:57 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 15:59:57 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 15:59:57 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 15:59:57 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 15:59:57 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 15:59:57 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 15:59:57 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 15:59:57 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecastevent=agent+LoggedIn [0m
+[32m2023-05-12 15:59:57 INFO     Request failed with status code 404[0m
+[32m2023-05-12 16:01:06 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:01:06 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:01:06 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:01:06 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:01:06 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:01:06 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:01:06 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:01:06 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:01:06 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:01:06 INFO      Final url for destination server : - 72.18.80.112:5174/weatherforecast/event=agent+LoggedIn [0m
+[34m2023-05-12 16:01:06 DEBUG    error occured : No connection adapters were found for '72.18.80.112:5174/weatherforecast/event=agent+LoggedIn'[0m
+[32m2023-05-12 16:01:22 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:01:22 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:01:22 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:01:22 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:01:22 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:01:22 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:01:22 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:01:22 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:01:22 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:01:22 INFO      Final url for destination server : - 172.18.80.112:5174/weatherforecast/event=agent+LoggedIn [0m
+[34m2023-05-12 16:01:22 DEBUG    error occured : No connection adapters were found for '172.18.80.112:5174/weatherforecast/event=agent+LoggedIn'[0m
+[32m2023-05-12 16:06:21 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:06:21 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:06:21 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:06:21 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:06:21 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:06:21 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:06:21 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:06:21 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:06:21 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:06:21 INFO      Final url for destination server : - 172.18.80.112:5174/weatherforecast/event=agent+LoggedIn [0m
+[34m2023-05-12 16:06:21 DEBUG    error occured : No connection adapters were found for '172.18.80.112:5174/weatherforecast/event=agent+LoggedIn'[0m
+[32m2023-05-12 16:10:32 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:10:32 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:10:32 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:10:32 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:10:32 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:10:32 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:10:32 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:10:32 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:10:32 INFO     <----------- callback funcation Executed ----------> [0m
+[34m2023-05-12 16:10:32 DEBUG    error occured : name 'url' is not defined[0m
+[32m2023-05-12 16:11:27 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:11:27 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:11:27 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:11:27 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:11:27 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:11:27 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:11:27 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:11:27 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:11:27 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:11:27 INFO      Final url for destination server : - 172.18.80.112:5174/weatherforecast/ [0m
+[34m2023-05-12 16:11:27 DEBUG    error occured : No connection adapters were found for '172.18.80.112:5174/weatherforecast/'[0m
+[32m2023-05-12 16:13:14 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:13:14 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:13:14 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:13:15 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:13:15 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:13:15 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:13:15 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:13:15 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:13:15 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:13:15 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/ [0m
+[32m2023-05-12 16:13:15 INFO     Callback Response content: b'' [0m
+[32m2023-05-12 16:13:15 INFO     Request failed with status code 404[0m
+[32m2023-05-12 16:13:21 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:13:21 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:13:21 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:13:21 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:13:21 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:13:21 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:13:21 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:13:21 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:13:21 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:13:21 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/ [0m
+[32m2023-05-12 16:13:21 INFO     Callback Response content: b'' [0m
+[32m2023-05-12 16:13:21 INFO     Request failed with status code 404[0m
+[32m2023-05-12 16:14:11 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:14:11 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:14:11 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:14:11 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:14:11 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:14:11 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:14:11 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:14:11 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:14:11 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:14:11 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=asda [0m
+[32m2023-05-12 16:14:11 INFO     Callback Request successful![0m
+[32m2023-05-12 16:14:11 INFO     Callback Response content: b'You requested event: event=asda'[0m
+[32m2023-05-12 16:15:17 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:15:17 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:15:17 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:15:17 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:15:17 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:15:17 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:15:17 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:15:17 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:15:17 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:15:17 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=asda [0m
+[32m2023-05-12 16:15:17 INFO     Callback Request successful![0m
+[32m2023-05-12 16:15:17 INFO     Callback Response content: b'You requested event: event=asda'[0m
+[32m2023-05-12 16:15:51 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:15:51 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:15:51 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:15:51 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:15:51 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:15:51 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:15:51 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:15:51 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:15:51 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:15:51 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=asda [0m
+[32m2023-05-12 16:15:51 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-12 16:15:51 INFO     Callback Response content: b'You requested event: event=asda'[0m
+[32m2023-05-12 16:21:06 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:21:06 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:21:06 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:21:06 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:21:06 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:21:06 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:21:06 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:21:06 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:21:06 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:21:06 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=asda [0m
+[32m2023-05-12 16:21:06 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-12 16:21:06 INFO     Callback Response content: b'You requested event: event=asda'[0m
+[32m2023-05-12 16:21:21 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:21:21 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:21:21 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:21:21 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:21:21 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:21:21 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:21:21 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:21:21 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:21:21 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:21:21 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/[0m
+[32m2023-05-12 16:21:21 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/ [0m
+[32m2023-05-12 16:21:21 INFO     Callback Response content: b'' [0m
+[32m2023-05-12 16:21:21 INFO     Request failed with status code 404[0m
+[32m2023-05-12 16:24:20 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:24:20 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:24:20 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:24:20 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:24:20 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:24:20 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:24:20 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:24:20 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:24:20 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:24:20 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/[0m
+[32m2023-05-12 16:24:20 INFO      Query String Objects : event=agentLoggedIn[0m
+[32m2023-05-12 16:24:20 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=agentLoggedIn [0m
+[32m2023-05-12 16:24:20 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-12 16:24:20 INFO     Callback Response content: b'You requested event: event=agentLoggedIn'[0m
+[32m2023-05-12 16:24:41 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 16:24:41 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 16:24:41 INFO     checking if user entered ip_address is Reachable 172.18.80.81, Timeout is 2-sec [0m
+[32m2023-05-12 16:24:41 INFO     output from subprocess : -b'\r\nPinging 172.18.80.81 with 32 bytes of data:\r\nReply from 172.18.80.81: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.81:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 16:24:41 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.81 with 32 bytes of data:
+Reply from 172.18.80.81: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.81:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 16:24:41 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 16:24:41 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 16:24:41 INFO     Destination server ip : 172.18.80.81 [0m
+[32m2023-05-12 16:24:41 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 16:24:41 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/[0m
+[32m2023-05-12 16:24:41 INFO      Query String Objects : event=agent+LoggedIn[0m
+[32m2023-05-12 16:24:41 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=agent+LoggedIn [0m
+[32m2023-05-12 16:24:41 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-12 16:24:41 INFO     Callback Response content: b'You requested event: event=agent+LoggedIn'[0m
+[32m2023-05-12 17:15:54 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 17:15:54 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 17:15:54 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[33m2023-05-12 17:15:55 WARNING  Failure, Ip address is not reachable from the middleware :[0m
+[32m2023-05-12 17:20:56 INFO     Event Recevied from third party Api with App_Name :screenpop || App_Id: f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457[0m
+[32m2023-05-12 17:20:56 INFO     Client app Id verified,f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457 [0m
+[32m2023-05-12 17:20:56 INFO     checking if user entered ip_address is Reachable 172.18.80.112, Timeout is 2-sec [0m
+[32m2023-05-12 17:20:56 INFO     output from subprocess : -b'\r\nPinging 172.18.80.112 with 32 bytes of data:\r\nReply from 172.18.80.112: bytes=32 time<1ms TTL=128\r\n\r\nPing statistics for 172.18.80.112:\r\n    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r\n' [0m
+[33m2023-05-12 17:20:56 WARNING  output from subprocess In utf-8 : -
+Pinging 172.18.80.112 with 32 bytes of data:
+Reply from 172.18.80.112: bytes=32 time<1ms TTL=128
+
+Ping statistics for 172.18.80.112:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+ || Type : - <class 'str'> [0m
+[33m2023-05-12 17:20:56 WARNING   If funcation fails in any Linux subsidarires check subprocess Output in UTF-8[0m
+[32m2023-05-12 17:20:56 INFO     Success, Ip address is reachable from the middleware[0m
+[32m2023-05-12 17:20:56 INFO     Destination server ip : 172.18.80.112 [0m
+[32m2023-05-12 17:20:56 INFO     <----------- callback funcation Executed ----------> [0m
+[32m2023-05-12 17:20:56 INFO      Destination URL Requested By User : http://172.18.80.112:5174/weatherforecast/[0m
+[32m2023-05-12 17:20:56 INFO      Query String Objects : event=agent+LoggedIn[0m
+[32m2023-05-12 17:20:56 INFO      Final url for destination server : - http://172.18.80.112:5174/weatherforecast/event=agent+LoggedIn [0m
+[32m2023-05-12 17:20:56 INFO     ___________Callback Request successful! ________ [0m
+[32m2023-05-12 17:20:56 INFO     Callback Response content: b'You requested event: event=agent+LoggedIn'[0m

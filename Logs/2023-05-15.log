@@ -1,0 +1,107 @@
+[32m2023-05-15 15:23:43 INFO     New Registeration Request by Client with App Name : server || Ip : 172.354.66.54 || Os_username: asd[0m
+[31m[47m2023-05-15 15:23:43 CRITICAL There was error in app_id Creation : [WinError 183] Cannot create a file when that file already exists: 'app/utils/hashset.txt'[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\client_register.py", line 53, in get_app_id
+    logger.critical(f"There was error in app_id Creation : {e}", stack_info=True)
+[32m2023-05-15 15:26:43 INFO     New Registeration Request by Client with App Name : server || Ip : 172.354.66.54 || Os_username: asd[0m
+[34m2023-05-15 15:26:43 DEBUG    App Id value for client server : 551824574900392de516606d3633019234267d738afcf3c7965f3308efc567d5[0m
+[34m2023-05-15 15:26:43 DEBUG    Hashmap File contains : {'widget_screenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'widgetscreenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'screenpop': 'f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457', 'server': '551824574900392de516606d3633019234267d738afcf3c7965f3308efc567d5'}[0m
+[32m2023-05-15 15:56:24 INFO     New Registeration by Server with Name : screenpop server || callback_url : https:/info/endpoint/ || Os_username: string1[0m
+[31m[47m2023-05-15 15:56:24 CRITICAL There was error in server Registration : mkdir: path should be string, bytes or os.PathLike, not NoneType[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\server_register.py", line 37, in server_register
+    logger.critical(f"There was error in server Registration : {e}", stack_info=True)
+[32m2023-05-15 16:09:43 INFO     New Registeration by Server with Name : screenpop server || callback_url : https:/info/endpoint/ || Os_username: string1[0m
+[31m[47m2023-05-15 16:09:43 CRITICAL There was error in server Registration : name 'path' is not defined[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\server_register.py", line 37, in server_register
+    logger.critical(f"There was error in server Registration : {e}", stack_info=True)
+[32m2023-05-15 16:10:47 INFO     New Registeration by Server with Name : screenpop server || callback_url : https:/info/endpoint/ || Os_username: string1[0m
+[31m[47m2023-05-15 16:10:47 CRITICAL There was error in server Registration : [Errno 13] Permission denied: 'app/utils/server_data_hashset.txt'[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\server_register.py", line 37, in server_register
+    logger.critical(f"There was error in server Registration : {e}", stack_info=True)
+[32m2023-05-15 16:12:48 INFO     New Registeration by Server with Name : test || callback_url : https// || Os_username: string[0m
+[31m[47m2023-05-15 16:12:48 CRITICAL There was error in server Registration : [Errno 13] Permission denied: 'app/util'
+
+[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\server_register.py", line 37, in server_register
+    logger.critical(f"There was error in server Registration : {e}", stack_info=True)
+[32m2023-05-15 16:44:34 INFO     New Registeration by Server with Name : test || callback_url : https// || Os_username: string[0m
+[34m2023-05-15 16:44:34 DEBUG    App Id value for client test : https//[0m
+[34m2023-05-15 16:44:34 DEBUG    Hashmap File contains : {'test': 'https//'}[0m
+[31m[47m2023-05-15 16:44:34 CRITICAL There was error in server Registration : name 'datetime' is not defined[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\server_register.py", line 37, in server_register
+    logger.critical(f"There was error in server Registration : {e}", stack_info=True)
+[32m2023-05-15 16:46:59 INFO     New Registeration by Server with Name : test || callback_url : https// || Os_username: string[0m
+[34m2023-05-15 16:46:59 DEBUG    App Id value for client test : https//[0m
+[34m2023-05-15 16:46:59 DEBUG    Hashmap File contains : {'test': 'https//'}[0m
+[31m[47m2023-05-15 16:46:59 CRITICAL There was error in server Registration : name 'datetime' is not defined[0m
+Stack (most recent call last):
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 912, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\SONY\AppData\Local\Programs\Python\Python39\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "E:\Personal Projects\Middleware\lib\site-packages\anyio\_backends\_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "E:\Personal Projects\Middleware\app\routes\server_register.py", line 37, in server_register
+    logger.critical(f"There was error in server Registration : {e}", stack_info=True)
+[32m2023-05-15 16:48:31 INFO     New Registeration by Server with Name : test || callback_url : https// || Os_username: string[0m
+[34m2023-05-15 16:48:31 DEBUG    App Id value for client test : https//[0m
+[34m2023-05-15 16:48:31 DEBUG    Hashmap File contains : {'test': 'https//'}[0m
+[32m2023-05-15 16:50:50 INFO     New Registeration by Server with Name : test || callback_url : https/ || Os_username:d[0m
+[34m2023-05-15 16:50:50 DEBUG    App Id value for client test : https/[0m as
+[34m2023-05-15 16:50:50 DEBUG    Hashmap File contains : {'test': 'https/'}[0m
+[32m2023-05-15 16:58:49 INFO     New Registeration Request by Client with App Name : ahdfg || Ip : 172.18.80.12 || Os_username: sdfsd[0m
+[34m2023-05-15 16:58:49 DEBUG    App Id value for client ahdfg : 2d4e67d3cdc6b57370e21347a47b752e3d21ea43880430c443a5c60af9727e6f[0m
+[34m2023-05-15 16:58:49 DEBUG    Hashmap File contains : {'widget_screenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'widgetscreenpop': '857f4d758e5424c538def9e3b50073e613d1268beb52a09b3d0d6d571894e2b1', 'screenpop': 'f7ca4f41071b9684165e223b605c59f8925fb511e0b4295d649f1076462fd457', 'server': '551824574900392de516606d3633019234267d738afcf3c7965f3308efc567d5', 'ahdfg': '2d4e67d3cdc6b57370e21347a47b752e3d21ea43880430c443a5c60af9727e6f'}[0m
+[32m2023-05-15 17:01:56 INFO     New Registeration by Server with Name : tes1 || callback_url : http://127.0.0.1:8000/docs#/Registration/server_register_server_register_post || Os_username: asdfaf[0m
+[34m2023-05-15 17:01:56 DEBUG     tes1 : http://127.0.0.1:8000/docs#/Registration/server_register_server_register_post [0m
+[34m2023-05-15 17:01:56 DEBUG    Hashmap File contains : {'test': 'https/', 'tes1': 'http://127.0.0.1:8000/docs#/Registration/server_register_server_register_post'}[0m
+[32m2023-05-15 17:15:04 INFO     New Registeration by Server with Name : asdas || callback_url : asd || Os_username: asdas[0m
+[34m2023-05-15 17:15:04 DEBUG     asdas : asd [0m
+[34m2023-05-15 17:15:04 DEBUG    Hashmap File contains : {'test': 'https/', 'tes1': 'http://127.0.0.1:8000/docs#/Registration/server_register_server_register_post', 'asdas': 'asd'}[0m
+[32m2023-05-15 17:15:50 INFO     New Registeration by Server with Name : asdas || callback_url : asd || Os_username: asdas[0m
+[34m2023-05-15 17:15:50 DEBUG     asdas : asd [0m
+[34m2023-05-15 17:15:50 DEBUG    Hashmap File contains : {'test': 'https/', 'tes1': 'http://127.0.0.1:8000/docs#/Registration/server_register_server_register_post', 'asdas': 'asd'}[0m
+[32m2023-05-15 17:17:33 INFO     New Registeration by Server with Name : screen-pop || callback_url : https://prodocasdsa/ || Os_username: gebevrr[0m
+[34m2023-05-15 17:17:33 DEBUG     screen-pop : https://prodocasdsa/ [0m
+[34m2023-05-15 17:17:33 DEBUG    Hashmap File contains : {'test': 'https/', 'tes1': 'http://127.0.0.1:8000/docs#/Registration/server_register_server_register_post', 'asdas': 'asd', 'screen-pop': 'https://prodocasdsa/'}[0m

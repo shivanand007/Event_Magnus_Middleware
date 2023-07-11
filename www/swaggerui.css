@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.swagger-ui .topbar {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.swagger-ui .opblock-summary-description p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.swagger-ui .opblock-summary-description .markdown p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.swagger-ui .opblock-summary-description .markdown li {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
