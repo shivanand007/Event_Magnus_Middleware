@@ -15,7 +15,7 @@
 4. Takes server destination url from the user in Json Request, _need to deprecated in next release_
 5. detailed **datewise** logging 
 6. token based authentication without timeout, _if required will be deprecated in next release_
-7. Deployed In ft lab on ubuntu server, **_`172.18.80.114 take ssh Id ftdev@172.18.80.114`_**
+7. Deployement on ubuntu server,
 8. Currently deployed on NGINX and UNVICORN, not configured for automatic startup after server reboot
 
 **Todo list** :
