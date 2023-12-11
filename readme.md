@@ -7,7 +7,7 @@
 
 ### Functionalities and Capabilities
 
-**Event Magnus offers a wide range of functionalities and capabilities to simplify event handling and improve the overall performance and reliability of your application. Some of the key features include:**
+**Event Magnus offers a wide range of API's and capabilities to simplify event handling and improve the overall performance and reliability of your application. Some of the key features include:**
 
 1. Support bidirectional communication.
 2. validates server and port reachability.
