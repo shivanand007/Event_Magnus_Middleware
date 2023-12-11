@@ -13,9 +13,9 @@
 2. validates server and port reachability.
 3. swagger ui documentation support.
 4. Takes server destination url from the user in Json Request, _need to deprecated in next release_
-5. detailed **datewise** logging 
+5. Detailed logging 
 6. token based authentication without timeout, _if required will be deprecated in next release_
-7. Deployement on ubuntu server,
+7. Cross platform compatibilty
 8. Currently deployed on NGINX and UNVICORN, not configured for automatic startup after server reboot
 
 **Todo list** :
