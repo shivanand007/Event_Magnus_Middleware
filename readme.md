@@ -21,7 +21,7 @@
 **Todo list** :
 
 1. Configure this for automated startup after server reboot
-2. Modification accordings to clients and server requirements
+
 
 
 **To get started with Event Magnus, follow these steps:**
