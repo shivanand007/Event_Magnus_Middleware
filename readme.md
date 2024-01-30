@@ -27,5 +27,5 @@
 **To get started with Event Magnus, follow these steps:**
 
 1. Register and subscribe for events on middleware using provided endpoint follow documentation for more info.
-2. Start sending realtime events to servers, available and register with us and provided there are in same network. 
+
 
